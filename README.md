@@ -36,9 +36,9 @@ This project builds a customer segmentation pipeline by transforming raw behavio
 
 ## ➡️ Business Applications
 The clustering framework can be adapted across different industries:
-- **Finance:** Customer risk profiling.
-- **Healthcare:** Patient grouping for tailored treatments.
-- **Retail:** Targeted marketing and personalised offers.
+- **Finance:** financial behaviour and income level can be used to offer personalised financial products like loans, credit cards, and investment portfolios.
+- **Technology:** customer segments are used to market products effectively (e.g. software, hardware, and IT services) based on the needs of customers and businesses.
+- **Healthcare:** customer segmentation can include patient demographics, medical history, and age to tailor patient care, financial coverage, and marketing of medical products.
 
 ## 📄 Licence
 This project is licensed under the [MIT License](LICENSE).
