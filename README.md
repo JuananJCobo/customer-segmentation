@@ -1,4 +1,4 @@
-# 🛍️ Customer segmentation with Clustering
+# 🛍️ Customer Segmentation with Clustering
 Unsupervised learning project for identifying customer segments based on purchasing behaviour.
 
 ## 🌟 Overview
